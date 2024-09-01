@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/838439044.svg)](https://zenodo.org/doi/10.5281/zenodo.13625531)
+
 # Scimitar
 
 Mixed integer linear programming is a powerful and widely used approach to solving optimization problems, but its expressiveness is limited.
